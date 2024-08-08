@@ -58,13 +58,13 @@
         <translation type="unfinished">&amp;Roghnaigh</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation type="unfinished">Seo iad do sheoltaí Bitcoin chun íocaíochtaí a sheoladh. Seiceáil i gcónaí an méid agus an seoladh glactha sula seoltar boinn.</translation>
+        <source>These are your Pingvincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation type="unfinished">Seo iad do sheoltaí Pingvincoin chun íocaíochtaí a sheoladh. Seiceáil i gcónaí an méid agus an seoladh glactha sula seoltar boinn.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.
+        <source>These are your Pingvincoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.
 Signing is only possible with addresses of the type 'legacy'.</source>
-        <translation type="unfinished">Seo iad do sheoltaí Bitcoin chun glacadh le híocaíochtaí. Úsáid an cnaipe ‘Cruthaigh seoladh glactha nua’ sa cluaisín glactha chun seoltaí nua a chruthú.
+        <translation type="unfinished">Seo iad do sheoltaí Pingvincoin chun glacadh le híocaíochtaí. Úsáid an cnaipe ‘Cruthaigh seoladh glactha nua’ sa cluaisín glactha chun seoltaí nua a chruthú.
 Ní féidir síniú ach le seoltaí 'oidhreachta'.</translation>
     </message>
     <message>
@@ -171,8 +171,8 @@ Ní féidir síniú ach le seoltaí 'oidhreachta'.</translation>
         <translation type="unfinished">Cuir isteach an sean pasfhrása agus an pasfhrása nua don sparán.</translation>
     </message>
     <message>
-        <source>Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished">Cuimhnigh nach dtugann chriptiú do sparán cosaint go hiomlán do do bitcoins ó bheith goidte ag bogearraí mailíseacha atá ag ionfhabhtú do ríomhaire.</translation>
+        <source>Remember that encrypting your wallet cannot fully protect your pingvincoins from being stolen by malware infecting your computer.</source>
+        <translation type="unfinished">Cuimhnigh nach dtugann chriptiú do sparán cosaint go hiomlán do do pingvincoins ó bheith goidte ag bogearraí mailíseacha atá ag ionfhabhtú do ríomhaire.</translation>
     </message>
     <message>
         <source>Wallet to be encrypted</source>
@@ -239,7 +239,7 @@ Ní féidir síniú ach le seoltaí 'oidhreachta'.</translation>
     </message>
 </context>
 <context>
-    <name>BitcoinApplication</name>
+    <name>PingvincoinApplication</name>
     <message>
         <source>Runaway exception</source>
         <translation type="unfinished">Eisceacht runaway</translation>
@@ -294,8 +294,8 @@ Ní féidir síniú ach le seoltaí 'oidhreachta'.</translation>
         <translation type="unfinished">Suim</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation type="unfinished">Iontráil seoladh Bitcoin (m.sh.%1)</translation>
+        <source>Enter a Pingvincoin address (e.g. %1)</source>
+        <translation type="unfinished">Iontráil seoladh Pingvincoin (m.sh.%1)</translation>
     </message>
     <message>
         <source>Unroutable</source>
@@ -416,7 +416,7 @@ Ní féidir síniú ach le seoltaí 'oidhreachta'.</translation>
     </message>
     </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>PingvincoinGUI</name>
     <message>
         <source>&amp;Overview</source>
         <translation type="unfinished">&amp;Forléargas </translation>
@@ -475,8 +475,8 @@ Ní féidir síniú ach le seoltaí 'oidhreachta'.</translation>
         <translation type="unfinished">Seachfhreastalaí &lt;b&gt;cumasaithe&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation type="unfinished">Seol boinn chuig seoladh Bitcoin</translation>
+        <source>Send coins to a Pingvincoin address</source>
+        <translation type="unfinished">Seol boinn chuig seoladh Pingvincoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -519,16 +519,16 @@ Ní féidir síniú ach le seoltaí 'oidhreachta'.</translation>
         <translation type="unfinished">Sínigh &amp;teachtaireacht…</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation type="unfinished">Sínigh teachtaireachtaí le do sheoltaí Bitcoin chun a chruthú gur leat iad</translation>
+        <source>Sign messages with your Pingvincoin addresses to prove you own them</source>
+        <translation type="unfinished">Sínigh teachtaireachtaí le do sheoltaí Pingvincoin chun a chruthú gur leat iad</translation>
     </message>
     <message>
         <source>&amp;Verify message…</source>
         <translation type="unfinished">&amp;Fíoraigh teachtaireacht…</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation type="unfinished">Teachtaireachtaí a fhíorú lena chinntiú go raibh siad sínithe le seoltaí sainithe Bitcoin</translation>
+        <source>Verify messages to ensure they were signed with specified Pingvincoin addresses</source>
+        <translation type="unfinished">Teachtaireachtaí a fhíorú lena chinntiú go raibh siad sínithe le seoltaí sainithe Pingvincoin</translation>
     </message>
     <message>
         <source>&amp;Load PSBT from file…</source>
@@ -587,8 +587,8 @@ Ní féidir síniú ach le seoltaí 'oidhreachta'.</translation>
         <translation type="unfinished">Ag nascadh le piaraí…</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation type="unfinished">Iarr íocaíochtaí (gineann cóid QR agus bitcoin: URIs)</translation>
+        <source>Request payments (generates QR codes and pingvincoin: URIs)</source>
+        <translation type="unfinished">Iarr íocaíochtaí (gineann cóid QR agus pingvincoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -643,16 +643,16 @@ Ní féidir síniú ach le seoltaí 'oidhreachta'.</translation>
         <translation type="unfinished">Suas chun dáta</translation>
     </message>
     <message>
-        <source>Load Partially Signed Bitcoin Transaction</source>
-        <translation type="unfinished">Lódáil Idirbheart Bitcoin Sínithe go Páirteach</translation>
+        <source>Load Partially Signed Pingvincoin Transaction</source>
+        <translation type="unfinished">Lódáil Idirbheart Pingvincoin Sínithe go Páirteach</translation>
     </message>
     <message>
         <source>Load PSBT from &amp;clipboard…</source>
         <translation type="unfinished">Luchtaigh PSBT ón &amp;gearrthaisce…</translation>
     </message>
     <message>
-        <source>Load Partially Signed Bitcoin Transaction from clipboard</source>
-        <translation type="unfinished">Lódáil Idirbheart Bitcoin Sínithe go Páirteach ón gearrthaisce</translation>
+        <source>Load Partially Signed Pingvincoin Transaction from clipboard</source>
+        <translation type="unfinished">Lódáil Idirbheart Pingvincoin Sínithe go Páirteach ón gearrthaisce</translation>
     </message>
     <message>
         <source>Node window</source>
@@ -671,8 +671,8 @@ Ní féidir síniú ach le seoltaí 'oidhreachta'.</translation>
         <translation type="unfinished">S&amp;eoltaí glacadh</translation>
     </message>
     <message>
-        <source>Open a bitcoin: URI</source>
-        <translation type="unfinished">Oscail bitcoin: URI</translation>
+        <source>Open a pingvincoin: URI</source>
+        <translation type="unfinished">Oscail pingvincoin: URI</translation>
     </message>
     <message>
         <source>Open Wallet</source>
@@ -709,8 +709,8 @@ Ní féidir síniú ach le seoltaí 'oidhreachta'.</translation>
         <translation type="unfinished">Imirce sparán</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Bitcoin command-line options</source>
-        <translation type="unfinished">Taispeáin an %1 teachtaireacht chabhrach chun liosta a fháil de roghanna Bitcoin líne na n-orduithe féideartha</translation>
+        <source>Show the %1 help message to get a list with possible Pingvincoin command-line options</source>
+        <translation type="unfinished">Taispeáin an %1 teachtaireacht chabhrach chun liosta a fháil de roghanna Pingvincoin líne na n-orduithe féideartha</translation>
     </message>
     <message>
         <source>&amp;Mask values</source>
@@ -773,12 +773,12 @@ Ní féidir síniú ach le seoltaí 'oidhreachta'.</translation>
         <translation type="unfinished">S&amp;conas</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network.</source>
+        <source>%n active connection(s) to Pingvincoin network.</source>
         <extracomment>A substring of the tooltip.</extracomment>
         <translation type="unfinished">
-            <numerusform>%n nasc(í) gníomhacha le líonra Bitcoin.</numerusform>
-            <numerusform>%n nasc(í) gníomhacha le líonra Bitcoin.</numerusform>
-            <numerusform>%n nasc(í) gníomhacha le líonra Bitcoin.</numerusform>
+            <numerusform>%n nasc(í) gníomhacha le líonra Pingvincoin.</numerusform>
+            <numerusform>%n nasc(í) gníomhacha le líonra Pingvincoin.</numerusform>
+            <numerusform>%n nasc(í) gníomhacha le líonra Pingvincoin.</numerusform>
         </translation>
     </message>
     <message>
@@ -1391,8 +1391,8 @@ Cruthóidh an próiseas imirce cúltaca den sparán roimh imirce. Ainmneofar an 
         </translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Bitcoin block chain.</source>
-        <translation type="unfinished">Íoslódáileafar %1 and stórálfaidh cóip de bhlocshlabhra Bitcoin.</translation>
+        <source>%1 will download and store a copy of the Pingvincoin block chain.</source>
+        <translation type="unfinished">Íoslódáileafar %1 and stórálfaidh cóip de bhlocshlabhra Pingvincoin.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1480,12 +1480,12 @@ Cruthóidh an próiseas imirce cúltaca den sparán roimh imirce. Ainmneofar an 
         <translation type="unfinished">Foirm</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the bitcoin network, as detailed below.</source>
-        <translation type="unfinished">B’fhéidir nach mbeidh idirbhearta dheireanacha le feiceáil fós, agus dá bhrí sin d’fhéadfadh go mbeadh iarmhéid do sparán mícheart. Beidh an faisnéis seo ceart nuair a bheidh do sparán críochnaithe ag sioncrónú leis an líonra bitcoin, mar atá luaite thíos.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the pingvincoin network, as detailed below.</source>
+        <translation type="unfinished">B’fhéidir nach mbeidh idirbhearta dheireanacha le feiceáil fós, agus dá bhrí sin d’fhéadfadh go mbeadh iarmhéid do sparán mícheart. Beidh an faisnéis seo ceart nuair a bheidh do sparán críochnaithe ag sioncrónú leis an líonra pingvincoin, mar atá luaite thíos.</translation>
     </message>
     <message>
-        <source>Attempting to spend bitcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation type="unfinished">Ní ghlacfaidh an líonra le hiarrachtí bitcoins a chaitheamh a mbaineann le hidirbhearta nach bhfuil ar taispeáint go fóill.</translation>
+        <source>Attempting to spend pingvincoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation type="unfinished">Ní ghlacfaidh an líonra le hiarrachtí pingvincoins a chaitheamh a mbaineann le hidirbhearta nach bhfuil ar taispeáint go fóill.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1535,8 +1535,8 @@ Cruthóidh an próiseas imirce cúltaca den sparán roimh imirce. Ainmneofar an 
 <context>
     <name>OpenURIDialog</name>
     <message>
-        <source>Open bitcoin URI</source>
-        <translation type="unfinished">Oscail URI bitcoin</translation>
+        <source>Open pingvincoin URI</source>
+        <translation type="unfinished">Oscail URI pingvincoin</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
@@ -1699,16 +1699,16 @@ Cruthóidh an próiseas imirce cúltaca den sparán roimh imirce. Ainmneofar an 
         <translation type="unfinished">&amp;Conair scripte sínithe seachtraí</translation>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation type="unfinished">Oscail port cliant Bitcoin go huathoibríoch ar an ródaire. Ní oibríonn sé seo ach nuair a thacaíonn do ródaire le UPnP agus nuair a chumasaítear é.</translation>
+        <source>Automatically open the Pingvincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation type="unfinished">Oscail port cliant Pingvincoin go huathoibríoch ar an ródaire. Ní oibríonn sé seo ach nuair a thacaíonn do ródaire le UPnP agus nuair a chumasaítear é.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation type="unfinished">Mapáil port ag úsáid &amp;UPnP</translation>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports NAT-PMP and it is enabled. The external port could be random.</source>
-        <translation type="unfinished">Oscail calafort cliant Bitcoin go huathoibríoch ar an ródaire. Ní oibríonn sé seo ach amháin nuair a thacaíonn do ródaire le NAT-PMP agus go bhfuil sé cumasaithe. D'fhéadfadh an port seachtrach a bheith randamach.</translation>
+        <source>Automatically open the Pingvincoin client port on the router. This only works when your router supports NAT-PMP and it is enabled. The external port could be random.</source>
+        <translation type="unfinished">Oscail calafort cliant Pingvincoin go huathoibríoch ar an ródaire. Ní oibríonn sé seo ach amháin nuair a thacaíonn do ródaire le NAT-PMP agus go bhfuil sé cumasaithe. D'fhéadfadh an port seachtrach a bheith randamach.</translation>
     </message>
     <message>
         <source>Map port using NA&amp;T-PMP</source>
@@ -1723,8 +1723,8 @@ Cruthóidh an próiseas imirce cúltaca den sparán roimh imirce. Ainmneofar an 
         <translation type="unfinished">Ceadai&amp;gh naisc isteach</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation type="unfinished">Ceangail leis an líonra Bitcoin trí sheachfhreastalaí SOCKS5.</translation>
+        <source>Connect to the Pingvincoin network through a SOCKS5 proxy.</source>
+        <translation type="unfinished">Ceangail leis an líonra Pingvincoin trí sheachfhreastalaí SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1799,8 +1799,8 @@ Cruthóidh an próiseas imirce cúltaca den sparán roimh imirce. Ainmneofar an 
         <translation type="unfinished">Gnéithe rialúchán bonn a thaispeáint nó nach.</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor onion services.</source>
-        <translation type="unfinished">Ceangail le líonra Bitcoin trí seachfhreastalaí SOCKS5 ar leith do sheirbhísí Tor oinniún.</translation>
+        <source>Connect to the Pingvincoin network through a separate SOCKS5 proxy for Tor onion services.</source>
+        <translation type="unfinished">Ceangail le líonra Pingvincoin trí seachfhreastalaí SOCKS5 ar leith do sheirbhísí Tor oinniún.</translation>
     </message>
     <message>
         <source>Use separate SOCKS&amp;5 proxy to reach peers via Tor onion services:</source>
@@ -1896,8 +1896,8 @@ Cruthóidh an próiseas imirce cúltaca den sparán roimh imirce. Ainmneofar an 
         <translation type="unfinished">Foirm</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation type="unfinished">Féadfaidh an fhaisnéis a thaispeántar a bheith as dáta. Déanann do sparán sioncrónú go huathoibríoch leis an líonra Bitcoin tar éis nasc a bhunú, ach níl an próiseas seo críochnaithe fós.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pingvincoin network after a connection is established, but this process has not completed yet.</source>
+        <translation type="unfinished">Féadfaidh an fhaisnéis a thaispeántar a bheith as dáta. Déanann do sparán sioncrónú go huathoibríoch leis an líonra Pingvincoin tar éis nasc a bhunú, ach níl an próiseas seo críochnaithe fós.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -2111,16 +2111,16 @@ Cruthóidh an próiseas imirce cúltaca den sparán roimh imirce. Ainmneofar an 
         <translation type="unfinished">Earráid iarratais íocaíocht</translation>
     </message>
     <message>
-        <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation type="unfinished">Ní féidir bitcoin a thosú: láimhseálaí cliceáil-chun-íoc</translation>
+        <source>Cannot start pingvincoin: click-to-pay handler</source>
+        <translation type="unfinished">Ní féidir pingvincoin a thosú: láimhseálaí cliceáil-chun-íoc</translation>
     </message>
     <message>
         <source>URI handling</source>
         <translation type="unfinished">Láimhseála URI</translation>
     </message>
     <message>
-        <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation type="unfinished">Ní URI bailí é 'bitcoin://'. Úsáid 'bitcoin:' ina ionad.</translation>
+        <source>'pingvincoin://' is not a valid URI. Use 'pingvincoin:' instead.</source>
+        <translation type="unfinished">Ní URI bailí é 'pingvincoin://'. Úsáid 'pingvincoin:' ina ionad.</translation>
     </message>
     <message>
         <source>Cannot process payment request because BIP70 is not supported.
@@ -2131,8 +2131,8 @@ De bharr lochtanna slándála forleathan in BIP70, moltar go láidir neamhaird a
 Má tá an earráid seo á fáil agat ba cheart duit iarraidh ar an díoltóir URI atá comhoiriúnach le BIP21 a sholáthar.</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation type="unfinished">Ní féidir URI a pharsáil! Is féidir le seoladh neamhbhailí Bitcoin nó paraiméadair URI drochfhoirmithe a bheith mar an chúis.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Pingvincoin address or malformed URI parameters.</source>
+        <translation type="unfinished">Ní féidir URI a pharsáil! Is féidir le seoladh neamhbhailí Pingvincoin nó paraiméadair URI drochfhoirmithe a bheith mar an chúis.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -2718,8 +2718,8 @@ Chun tuilleadh eolais a fháil faoin gconsól seo a úsáid, clóscríobh %6.
         <translation type="unfinished">&amp;Teachtaireacht</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation type="unfinished">Teachtaireacht roghnach le ceangal leis an iarratas íocaíocht, a thaispeánfar nuair a osclaítear an iarraidh. Nóta: Ní sheolfar an teachtaireacht leis an íocaíocht thar líonra Bitcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Pingvincoin network.</source>
+        <translation type="unfinished">Teachtaireacht roghnach le ceangal leis an iarratas íocaíocht, a thaispeánfar nuair a osclaítear an iarraidh. Nóta: Ní sheolfar an teachtaireacht leis an íocaíocht thar líonra Pingvincoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -3023,8 +3023,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee rate of "100 satos
 Nóta: Ós rud é go ríomhtar an táille ar bhonn in aghaidh an bheart, ní thabharfadh ráta táille "100 satoshis in aghaidh an kvB" le haghaidh méid idirbhirt 500 beart fíorúil (leath de 1 kvB) táille ach 50 satoshis ar deireadh thiar.</translation>
     </message>
     <message>
-        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for bitcoin transactions than the network can process.</source>
-        <translation type="unfinished">Nuair a bhíonn méid idirbhirt níos lú ná spás sna bloic, féadfaidh mianadóirí chomh maith le nóid athsheachadadh táille íosta a fhorfheidhmiú. Tá sé sách maith an táille íosta seo a íoc, ach bíodh a fhios agat go bhféadfadh idirbheart nach ndeimhnítear riamh a bheith mar thoradh air seo a nuair a bhíonn níos mó éilimh ar idirbhearta bitcoin ná mar is féidir leis an líonra a phróiseáil.</translation>
+        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for pingvincoin transactions than the network can process.</source>
+        <translation type="unfinished">Nuair a bhíonn méid idirbhirt níos lú ná spás sna bloic, féadfaidh mianadóirí chomh maith le nóid athsheachadadh táille íosta a fhorfheidhmiú. Tá sé sách maith an táille íosta seo a íoc, ach bíodh a fhios agat go bhféadfadh idirbheart nach ndeimhnítear riamh a bheith mar thoradh air seo a nuair a bhíonn níos mó éilimh ar idirbhearta pingvincoin ná mar is féidir leis an líonra a phróiseáil.</translation>
     </message>
     <message>
         <source>A too low fee might result in a never confirming transaction (read the tooltip)</source>
@@ -3109,8 +3109,8 @@ Nóta: Ós rud é go ríomhtar an táille ar bhonn in aghaidh an bheart, ní tha
         <translation type="unfinished">Cruthaigh Gan Sín</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation type="unfinished">Cruthaíonn Idirbheart Bitcoin Sínithe go Páirteach (IBSP) le húsáid le e.g. sparán as líne %1, nó sparán crua-earraí atá comhoiriúnach le IBSP.</translation>
+        <source>Creates a Partially Signed Pingvincoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <translation type="unfinished">Cruthaíonn Idirbheart Pingvincoin Sínithe go Páirteach (IBSP) le húsáid le e.g. sparán as líne %1, nó sparán crua-earraí atá comhoiriúnach le IBSP.</translation>
     </message>
     <message>
         <source>%1 to '%2'</source>
@@ -3165,9 +3165,9 @@ Nóta: Ós rud é go ríomhtar an táille ar bhonn in aghaidh an bheart, ní tha
         <translation type="unfinished">Féadfaidh tú an táille a mhéadú níos déanaí (comhartha chuig Athchuir-Le-Táille, BIP-125).</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can save or copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Pingvincoin Transaction (PSBT) which you can save or copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
         <extracomment>Text to inform a user attempting to create a transaction of their current options. At this stage, a user can only create a PSBT. This string is displayed when private keys are disabled and an external signer is not available.</extracomment>
-        <translation type="unfinished">Le do thoil, déan athbhreithniú ar do thogra idirbhirt. Tabharfaidh sé seo Idirbheart Bitcoin Sínithe go Páirteach (IBSP) ar féidir leat a shábháil nó a chóipeáil agus a shíniú ansin le m.sh. sparán as líne %1, nó sparán crua-earraí atá comhoiriúnach le IBSP.</translation>
+        <translation type="unfinished">Le do thoil, déan athbhreithniú ar do thogra idirbhirt. Tabharfaidh sé seo Idirbheart Pingvincoin Sínithe go Páirteach (IBSP) ar féidir leat a shábháil nó a chóipeáil agus a shíniú ansin le m.sh. sparán as líne %1, nó sparán crua-earraí atá comhoiriúnach le IBSP.</translation>
     </message>
     <message>
         <source>%1 from wallet '%2'</source>
@@ -3254,8 +3254,8 @@ Nóta: Ós rud é go ríomhtar an táille ar bhonn in aghaidh an bheart, ní tha
         </translation>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation type="unfinished">Rabhadh: Seoladh neamhbhailí Bitcoin</translation>
+        <source>Warning: Invalid Pingvincoin address</source>
+        <translation type="unfinished">Rabhadh: Seoladh neamhbhailí Pingvincoin</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -3293,8 +3293,8 @@ Nóta: Ós rud é go ríomhtar an táille ar bhonn in aghaidh an bheart, ní tha
         <translation type="unfinished">Roghnaigh seoladh a úsáideadh roimhe seo</translation>
     </message>
     <message>
-        <source>The Bitcoin address to send the payment to</source>
-        <translation type="unfinished">Seoladh Bitcoin chun an íocaíocht a sheoladh chuig</translation>
+        <source>The Pingvincoin address to send the payment to</source>
+        <translation type="unfinished">Seoladh Pingvincoin chun an íocaíocht a sheoladh chuig</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
@@ -3309,8 +3309,8 @@ Nóta: Ós rud é go ríomhtar an táille ar bhonn in aghaidh an bheart, ní tha
         <translation type="unfinished">An méid atá le seoladh san aonad roghnaithe</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation type="unfinished">Bainfear an táille ón méid a sheolfar. Gheobhaidh an faighteoir níos lú bitcoins ná mar a iontrálann tú sa réimse méid. Má roghnaítear faighteoirí iolracha, roinntear an táille go cothrom.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less pingvincoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation type="unfinished">Bainfear an táille ón méid a sheolfar. Gheobhaidh an faighteoir níos lú pingvincoins ná mar a iontrálann tú sa réimse méid. Má roghnaítear faighteoirí iolracha, roinntear an táille go cothrom.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -3329,8 +3329,8 @@ Nóta: Ós rud é go ríomhtar an táille ar bhonn in aghaidh an bheart, ní tha
         <translation type="unfinished">Iontráil lipéad don seoladh seo chun é a chur le liosta na seoltaí úsáidte</translation>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation type="unfinished">Teachtaireacht a bhí ceangailte leis an bitcoin: URI a stórálfar leis an idirbheart le haghaidh do thagairt. Nóta: Ní sheolfar an teachtaireacht seo thar líonra Bitcoin.</translation>
+        <source>A message that was attached to the pingvincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Pingvincoin network.</source>
+        <translation type="unfinished">Teachtaireacht a bhí ceangailte leis an pingvincoin: URI a stórálfar leis an idirbheart le haghaidh do thagairt. Nóta: Ní sheolfar an teachtaireacht seo thar líonra Pingvincoin.</translation>
     </message>
 </context>
 <context>
@@ -3355,12 +3355,12 @@ Nóta: Ós rud é go ríomhtar an táille ar bhonn in aghaidh an bheart, ní tha
         <translation type="unfinished">&amp;Sínigh Teachtaireacht</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive bitcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation type="unfinished">Féadfaidh tú teachtaireachtaí / comhaontuithe a shíniú le do sheoltaí chun a chruthú gur féidir leat bitcoins a sheoltear chucu a fháil. Bí cúramach gan aon rud doiléir nó randamach a shíniú, mar d’fhéadfadh ionsaithe fioscaireachta iarracht ar d’aitheantas a shíniú chucu. Ná sínigh ach ráitis lán-mhionsonraithe a aontaíonn tú leo.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive pingvincoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation type="unfinished">Féadfaidh tú teachtaireachtaí / comhaontuithe a shíniú le do sheoltaí chun a chruthú gur féidir leat pingvincoins a sheoltear chucu a fháil. Bí cúramach gan aon rud doiléir nó randamach a shíniú, mar d’fhéadfadh ionsaithe fioscaireachta iarracht ar d’aitheantas a shíniú chucu. Ná sínigh ach ráitis lán-mhionsonraithe a aontaíonn tú leo.</translation>
     </message>
     <message>
-        <source>The Bitcoin address to sign the message with</source>
-        <translation type="unfinished">An seoladh Bitcoin chun an teachtaireacht a shíniú le</translation>
+        <source>The Pingvincoin address to sign the message with</source>
+        <translation type="unfinished">An seoladh Pingvincoin chun an teachtaireacht a shíniú le</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3383,8 +3383,8 @@ Nóta: Ós rud é go ríomhtar an táille ar bhonn in aghaidh an bheart, ní tha
         <translation type="unfinished">Cóipeáil an síniú reatha chuig gearrthaisce an chórais</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation type="unfinished">Sínigh an teachtaireacht chun a chruthú gur leat an seoladh Bitcoin seo</translation>
+        <source>Sign the message to prove you own this Pingvincoin address</source>
+        <translation type="unfinished">Sínigh an teachtaireacht chun a chruthú gur leat an seoladh Pingvincoin seo</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3407,8 +3407,8 @@ Nóta: Ós rud é go ríomhtar an táille ar bhonn in aghaidh an bheart, ní tha
         <translation type="unfinished">Cuir isteach seoladh an ghlacadóra, teachtaireacht  (déan cinnte go gcóipeálann tú bristeacha líne, spásanna, táib, srl. go díreach) agus sínigh thíos chun an teachtaireacht a fhíorú. Bí cúramach gan níos mó a léamh isteach sa síniú ná mar atá sa teachtaireacht sínithe féin, ionas nach dtarlóidh ionsaí socadáin duit. Tabhair faoi deara nach gcruthóidh sé seo ach go bhfaigheann an páirtí sínithe leis an seoladh, ní féidir leis seolta aon idirbhirt a chruthú!</translation>
     </message>
     <message>
-        <source>The Bitcoin address the message was signed with</source>
-        <translation type="unfinished">An seoladh Bitcoin a síníodh an teachtaireacht leis</translation>
+        <source>The Pingvincoin address the message was signed with</source>
+        <translation type="unfinished">An seoladh Pingvincoin a síníodh an teachtaireacht leis</translation>
     </message>
     <message>
         <source>The signed message to verify</source>
@@ -3419,8 +3419,8 @@ Nóta: Ós rud é go ríomhtar an táille ar bhonn in aghaidh an bheart, ní tha
         <translation type="unfinished">An síniú a tugadh nuair a síníodh an teachtaireacht</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation type="unfinished">Fíoraigh an teachtaireacht lena chinntiú go raibh sí sínithe leis an seoladh Bitcoin sainithe </translation>
+        <source>Verify the message to ensure it was signed with the specified Pingvincoin address</source>
+        <translation type="unfinished">Fíoraigh an teachtaireacht lena chinntiú go raibh sí sínithe leis an seoladh Pingvincoin sainithe </translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -4075,14 +4075,14 @@ Téigh go Comhad &gt; Oscail Sparán chun sparán a lódáil.
     </message>
 </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>pingvincoin-core</name>
     <message>
         <source>The %s developers</source>
         <translation type="unfinished">Forbróirí %s</translation>
     </message>
     <message>
-        <source>%s corrupt. Try using the wallet tool bitcoin-wallet to salvage or restoring a backup.</source>
-        <translation type="unfinished">Tá %s truaillithe. Triail an uirlis sparán bitcoin-wallet a úsáid chun tharrtháil nó chun cúltaca a athbhunú.</translation>
+        <source>%s corrupt. Try using the wallet tool pingvincoin-wallet to salvage or restoring a backup.</source>
+        <translation type="unfinished">Tá %s truaillithe. Triail an uirlis sparán pingvincoin-wallet a úsáid chun tharrtháil nó chun cúltaca a athbhunú.</translation>
     </message>
     <message>
         <source>%s failed to validate the -assumeutxo snapshot state. This indicates a hardware problem, or a bug in the software, or a bad software modification that allowed an invalid snapshot to be loaded. As a result of this, the node will shut down and stop using any state that was built on the snapshot, resetting the chain height from %d to %d. On the next restart, the node will resume syncing from %d without using any snapshot data. Please report this incident to %s, including how you obtained the snapshot. The invalid snapshot chainstate will be left on disk in case it is helpful in diagnosing the issue that caused this error.</source>
@@ -4129,8 +4129,8 @@ Téigh go Comhad &gt; Oscail Sparán chun sparán a lódáil.
         <translation type="unfinished">Earráid: Tá taifead aitheantóra Dumpfile mícheart. Fuair ​​​​tú "%s", bhíothas ag súil le "%s".</translation>
     </message>
     <message>
-        <source>Error: Dumpfile version is not supported. This version of bitcoin-wallet only supports version 1 dumpfiles. Got dumpfile with version %s</source>
-        <translation type="unfinished">Earráid: Ní thacaítear leis an leagan Dumpfile. Ní thacaíonn an leagan seo de bitcoin-sparán ach le leagan 1 dumpfiles. Fuair ​​​​tú dumpfile le leagan %s</translation>
+        <source>Error: Dumpfile version is not supported. This version of pingvincoin-wallet only supports version 1 dumpfiles. Got dumpfile with version %s</source>
+        <translation type="unfinished">Earráid: Ní thacaítear leis an leagan Dumpfile. Ní thacaíonn an leagan seo de pingvincoin-sparán ach le leagan 1 dumpfiles. Fuair ​​​​tú dumpfile le leagan %s</translation>
     </message>
     <message>
         <source>Error: Legacy wallets only support the "legacy", "p2sh-segwit", and "bech32" address types</source>

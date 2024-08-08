@@ -58,13 +58,13 @@
         <translation type="unfinished">Chagua</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation type="unfinished">Hizi ndizo anwani zako za kutuma malipo ya sarafu ya Bitcoin. Hakikisha kila wakati kiwango na anwani ya kupokea kabla ya kutuma sarafu.</translation>
+        <source>These are your Pingvincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation type="unfinished">Hizi ndizo anwani zako za kutuma malipo ya sarafu ya Pingvincoin. Hakikisha kila wakati kiwango na anwani ya kupokea kabla ya kutuma sarafu.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.
+        <source>These are your Pingvincoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.
 Signing is only possible with addresses of the type 'legacy'.</source>
-        <translation type="unfinished">Hizi ndizo anwani zako za Bitcoin za kupokea malipo. Tumia kitufe cha 'Unda anwani mpya ya kupokea' kwenye kichupo cha kupokea ili kuunda anwani mpya.
+        <translation type="unfinished">Hizi ndizo anwani zako za Pingvincoin za kupokea malipo. Tumia kitufe cha 'Unda anwani mpya ya kupokea' kwenye kichupo cha kupokea ili kuunda anwani mpya.
 Kutia sahihi kunawezekana tu kwa anwani za aina ya 'urithi'.</translation>
     </message>
     <message>
@@ -176,8 +176,8 @@ Kutia sahihi kunawezekana tu kwa anwani za aina ya 'urithi'.</translation>
         <translation type="unfinished">Ingiza nenosiri la zamani na nenosiri jipya la pochi yako.</translation>
     </message>
     <message>
-        <source>Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished">Kumbuka kwamba usimbaji fiche wa mkoba wako hauwezi kulinda bitcoins zako zisiibiwe na programu hasidi kuambukiza kompyuta yako.</translation>
+        <source>Remember that encrypting your wallet cannot fully protect your pingvincoins from being stolen by malware infecting your computer.</source>
+        <translation type="unfinished">Kumbuka kwamba usimbaji fiche wa mkoba wako hauwezi kulinda pingvincoins zako zisiibiwe na programu hasidi kuambukiza kompyuta yako.</translation>
     </message>
     <message>
         <source>Wallet to be encrypted</source>
@@ -241,7 +241,7 @@ Kutia sahihi kunawezekana tu kwa anwani za aina ya 'urithi'.</translation>
     </message>
 </context>
 <context>
-    <name>BitcoinApplication</name>
+    <name>PingvincoinApplication</name>
     <message>
         <source>Runaway exception</source>
         <translation type="unfinished">Ubaguzi wa kukimbia</translation>
@@ -323,7 +323,7 @@ Kutia sahihi kunawezekana tu kwa anwani za aina ya 'urithi'.</translation>
     </message>
     </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>PingvincoinGUI</name>
     <message>
         <source>&amp;Overview</source>
         <translation type="unfinished">&amp;Muhtasari</translation>
@@ -386,8 +386,8 @@ Kutia sahihi kunawezekana tu kwa anwani za aina ya 'urithi'.</translation>
         <translation type="unfinished">Proxy imeamilishwa: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation type="unfinished">Tuma sarafu kwa anwani ya Bitcoin</translation>
+        <source>Send coins to a Pingvincoin address</source>
+        <translation type="unfinished">Tuma sarafu kwa anwani ya Pingvincoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -422,12 +422,12 @@ Kutia sahihi kunawezekana tu kwa anwani za aina ya 'urithi'.</translation>
         <translation type="unfinished">Saini &amp;ujumbe...</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation type="unfinished">Saini ujumbe na anwani zako za Bitcoin ili kuthibitisha umiliki wao.</translation>
+        <source>Sign messages with your Pingvincoin addresses to prove you own them</source>
+        <translation type="unfinished">Saini ujumbe na anwani zako za Pingvincoin ili kuthibitisha umiliki wao.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation type="unfinished">Hakikisha ujumbe umethibitishwa kuwa ulisainiwa na anwani za Bitcoin zilizotajwa</translation>
+        <source>Verify messages to ensure they were signed with specified Pingvincoin addresses</source>
+        <translation type="unfinished">Hakikisha ujumbe umethibitishwa kuwa ulisainiwa na anwani za Pingvincoin zilizotajwa</translation>
     </message>
     <message>
         <source>Open &amp;URI…</source>
@@ -482,8 +482,8 @@ Kutia sahihi kunawezekana tu kwa anwani za aina ya 'urithi'.</translation>
         <translation type="unfinished">Kuunganisha na wenzako wa kushirikiana...</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation type="unfinished">Omba malipo (huzalisha nambari za QR na bitcoin: URIs)</translation>
+        <source>Request payments (generates QR codes and pingvincoin: URIs)</source>
+        <translation type="unfinished">Omba malipo (huzalisha nambari za QR na pingvincoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -538,7 +538,7 @@ Kutia sahihi kunawezekana tu kwa anwani za aina ya 'urithi'.</translation>
         <translation type="unfinished">&amp;Ficha</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network.</source>
+        <source>%n active connection(s) to Pingvincoin network.</source>
         <extracomment>A substring of the tooltip.</extracomment>
         <translation type="unfinished">
             <numerusform />
@@ -922,7 +922,7 @@ Kutia sahihi kunawezekana tu kwa anwani za aina ya 'urithi'.</translation>
     </message>
     </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>pingvincoin-core</name>
     <message>
         <source>More than one onion bind address is provided. Using %s for the automatically created Tor onion service.</source>
         <translation type="unfinished">Zaidi ya anuani moja ya onion bind imetolewa. Inatumia %skwa ajili ya huduma ya Tor onion inayotengeneza kiotomatiki. </translation>

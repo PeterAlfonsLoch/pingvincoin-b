@@ -14,14 +14,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Bitcoin"
-            VALUE "FileDescription",    "bitcoind (Bitcoin node with a JSON-RPC server)"
+            VALUE "CompanyName",        "Pingvincoin"
+            VALUE "FileDescription",    "pingvincoind (Pingvincoin node with a JSON-RPC server)"
             VALUE "FileVersion",        PACKAGE_VERSION
-            VALUE "InternalName",       "bitcoind"
+            VALUE "InternalName",       "pingvincoind"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "bitcoind.exe"
-            VALUE "ProductName",        "bitcoind"
+            VALUE "OriginalFilename",   "pingvincoind.exe"
+            VALUE "ProductName",        "pingvincoind"
             VALUE "ProductVersion",     PACKAGE_VERSION
         END
     END

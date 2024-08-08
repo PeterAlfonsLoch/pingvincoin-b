@@ -58,13 +58,13 @@
         <translation type="unfinished">S&amp;eç</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation type="unfinished">Bunlar ödemeleri gönderdiğiniz Bitcoin adreslerinizdir. Para göndermeden önce her zaman tutarı ve alıcı adresi kontrol ediniz.</translation>
+        <source>These are your Pingvincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation type="unfinished">Bunlar ödemeleri gönderdiğiniz Pingvincoin adreslerinizdir. Para göndermeden önce her zaman tutarı ve alıcı adresi kontrol ediniz.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.
+        <source>These are your Pingvincoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.
 Signing is only possible with addresses of the type 'legacy'.</source>
-        <translation type="unfinished">Bunlar ödeme almak için kullanacağınız bitcoin adreslerinizdir. Yeni adres oluşturmak için ödeme alma sekmesindeki 'Yeni alıcı adresi oluşturun' kısmına tıklayın.
+        <translation type="unfinished">Bunlar ödeme almak için kullanacağınız pingvincoin adreslerinizdir. Yeni adres oluşturmak için ödeme alma sekmesindeki 'Yeni alıcı adresi oluşturun' kısmına tıklayın.
 İmzalama sadece 'legacy' tipindeki adreslerle mümkündür.</translation>
     </message>
     <message>
@@ -185,8 +185,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Cüzdanınızın eski ve yeni parolasını giriniz.</translation>
     </message>
     <message>
-        <source>Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished">Cüzdanınızı şifrelemenin bilgisayarınıza bulaşan kötü amaçlı yazılımlar tarafından bitcoinlerinizin çalınmasına karşı tamamen koruyamayacağını unutmayın.</translation>
+        <source>Remember that encrypting your wallet cannot fully protect your pingvincoins from being stolen by malware infecting your computer.</source>
+        <translation type="unfinished">Cüzdanınızı şifrelemenin bilgisayarınıza bulaşan kötü amaçlı yazılımlar tarafından pingvincoinlerinizin çalınmasına karşı tamamen koruyamayacağını unutmayın.</translation>
     </message>
     <message>
         <source>Wallet to be encrypted</source>
@@ -249,7 +249,7 @@ Cüzdan kilidini aç.</translation>
     </message>
 </context>
 <context>
-    <name>BitcoinApplication</name>
+    <name>PingvincoinApplication</name>
     <message>
         <source>Settings file %1 might be corrupt or invalid.</source>
         <translation type="unfinished">%1 ayar dosyası bozuk veya geçersiz olabilir.</translation>
@@ -292,8 +292,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Mitar</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation type="unfinished">Bir bitcoin adresi giriniz (örneğin %1)</translation>
+        <source>Enter a Pingvincoin address (e.g. %1)</source>
+        <translation type="unfinished">Bir pingvincoin adresi giriniz (örneğin %1)</translation>
     </message>
     <message>
         <source>Onion</source>
@@ -382,7 +382,7 @@ Cüzdan kilidini aç.</translation>
     </message>
     </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>PingvincoinGUI</name>
     <message>
         <source>&amp;Overview</source>
         <translation type="unfinished">Genel durum</translation>
@@ -449,8 +449,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Proxy &lt;b&gt;etkinleştirildi&lt;/b&gt;: %1 </translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation type="unfinished">Bir Bitcoin adresine Bitcoin yolla</translation>
+        <source>Send coins to a Pingvincoin address</source>
+        <translation type="unfinished">Bir Pingvincoin adresine Pingvincoin yolla</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -493,16 +493,16 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">&amp;Mesajı imzala...</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation type="unfinished">Bitcoin adreslerine sahip olduğunuzu kanıtlamak için mesajlarınızı imzalayın</translation>
+        <source>Sign messages with your Pingvincoin addresses to prove you own them</source>
+        <translation type="unfinished">Pingvincoin adreslerine sahip olduğunuzu kanıtlamak için mesajlarınızı imzalayın</translation>
     </message>
     <message>
         <source>&amp;Verify message…</source>
         <translation type="unfinished">&amp;Mesajı doğrula...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation type="unfinished">Belirtilen Bitcoin adresleriyle imzalandıklarından emin olmak için mesajları doğrulayın</translation>
+        <source>Verify messages to ensure they were signed with specified Pingvincoin addresses</source>
+        <translation type="unfinished">Belirtilen Pingvincoin adresleriyle imzalandıklarından emin olmak için mesajları doğrulayın</translation>
     </message>
     <message>
         <source>&amp;Load PSBT from file…</source>
@@ -553,8 +553,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Eşlere Bağlanılıyor...</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation type="unfinished">Ödeme isteyin (QR kodları ve bitcoin: URI'ler üretir)</translation>
+        <source>Request payments (generates QR codes and pingvincoin: URIs)</source>
+        <translation type="unfinished">Ödeme isteyin (QR kodları ve pingvincoin: URI'ler üretir)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -603,16 +603,16 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Güncel</translation>
     </message>
     <message>
-        <source>Load Partially Signed Bitcoin Transaction</source>
-        <translation type="unfinished">Kısmen İmzalanmış Bitcoin İşlemini Yükle </translation>
+        <source>Load Partially Signed Pingvincoin Transaction</source>
+        <translation type="unfinished">Kısmen İmzalanmış Pingvincoin İşlemini Yükle </translation>
     </message>
     <message>
         <source>Load PSBT from &amp;clipboard…</source>
         <translation type="unfinished">PSBT'yi &amp;panodan yükle...</translation>
     </message>
     <message>
-        <source>Load Partially Signed Bitcoin Transaction from clipboard</source>
-        <translation type="unfinished">Kısmen İmzalanmış Bitcoin işlemini panodan yükle</translation>
+        <source>Load Partially Signed Pingvincoin Transaction from clipboard</source>
+        <translation type="unfinished">Kısmen İmzalanmış Pingvincoin işlemini panodan yükle</translation>
     </message>
     <message>
         <source>Node window</source>
@@ -631,8 +631,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">&amp; Adresler alınıyor</translation>
     </message>
     <message>
-        <source>Open a bitcoin: URI</source>
-        <translation type="unfinished">Bitcoin’i aç.</translation>
+        <source>Open a pingvincoin: URI</source>
+        <translation type="unfinished">Pingvincoin’i aç.</translation>
     </message>
     <message>
         <source>Open Wallet</source>
@@ -729,10 +729,10 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">G&amp;öster</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network.</source>
+        <source>%n active connection(s) to Pingvincoin network.</source>
         <extracomment>A substring of the tooltip.</extracomment>
         <translation type="unfinished">
-            <numerusform>Bitcoin ağına %n etkin bağlantı.</numerusform>
+            <numerusform>Pingvincoin ağına %n etkin bağlantı.</numerusform>
         </translation>
     </message>
     <message>
@@ -1217,8 +1217,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Gönderme adresini  düzenleyin</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation type="unfinished">Girilen "%1" adresi geçerli bir Bitcoin adresi değildir.</translation>
+        <source>The entered address "%1" is not a valid Pingvincoin address.</source>
+        <translation type="unfinished">Girilen "%1" adresi geçerli bir Pingvincoin adresi değildir.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -1288,8 +1288,8 @@ Cüzdan kilidini aç.</translation>
         </translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Bitcoin block chain.</source>
-        <translation type="unfinished">%1  Bitcoin blok zincirinin bir kopyasını indirecek ve depolayacak.</translation>
+        <source>%1 will download and store a copy of the Pingvincoin block chain.</source>
+        <translation type="unfinished">%1  Pingvincoin blok zincirinin bir kopyasını indirecek ve depolayacak.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1365,12 +1365,12 @@ Cüzdan kilidini aç.</translation>
 <context>
     <name>ModalOverlay</name>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the bitcoin network, as detailed below.</source>
-        <translation type="unfinished">Son işlemler henüz görünmeyebilir ve bu nedenle cüzdanınızın bakiyesi yanlış olabilir. Bu bilgiler, aşağıda detaylandırıldığı gibi, cüzdanınız bitcoin ağı ile senkronizasyonunu tamamladığında doğru olacaktır. </translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the pingvincoin network, as detailed below.</source>
+        <translation type="unfinished">Son işlemler henüz görünmeyebilir ve bu nedenle cüzdanınızın bakiyesi yanlış olabilir. Bu bilgiler, aşağıda detaylandırıldığı gibi, cüzdanınız pingvincoin ağı ile senkronizasyonunu tamamladığında doğru olacaktır. </translation>
     </message>
     <message>
-        <source>Attempting to spend bitcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation type="unfinished">Henüz görüntülenmeyen işlemlerden etkilenen bitcoinleri harcama girişiminde bulunmak ağ tarafından kabul edilmeyecektir.</translation>
+        <source>Attempting to spend pingvincoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation type="unfinished">Henüz görüntülenmeyen işlemlerden etkilenen pingvincoinleri harcama girişiminde bulunmak ağ tarafından kabul edilmeyecektir.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1412,8 +1412,8 @@ Cüzdan kilidini aç.</translation>
 <context>
     <name>OpenURIDialog</name>
     <message>
-        <source>Open bitcoin URI</source>
-        <translation type="unfinished">Bitcoin URI aç</translation>
+        <source>Open pingvincoin URI</source>
+        <translation type="unfinished">Pingvincoin URI aç</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
@@ -1556,8 +1556,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">PSBT kontrollerinin gösterilip gösterilmeyeceği.</translation>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation type="unfinished">Yönlendiricide Bitcoin istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
+        <source>Automatically open the Pingvincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation type="unfinished">Yönlendiricide Pingvincoin istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1572,8 +1572,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Gelen bağlantılara izin ver</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation type="unfinished">Bitcoin ağına bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
+        <source>Connect to the Pingvincoin network through a SOCKS5 proxy.</source>
+        <translation type="unfinished">Pingvincoin ağına bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1625,7 +1625,7 @@ Cüzdan kilidini aç.</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation type="unfinished">Bitcoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
+        <translation type="unfinished">Pingvincoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
     </message>
     <message>
         <source>Third-party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1640,8 +1640,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Para kontrol özelliklerinin gösterilip gösterilmeyeceğini ayarlar.</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor onion services.</source>
-        <translation type="unfinished">Tor Onion hizmetleri için ayrı bir SOCKS5 proxy aracılığıyla Bitcoin ağına bağlanın. </translation>
+        <source>Connect to the Pingvincoin network through a separate SOCKS5 proxy for Tor onion services.</source>
+        <translation type="unfinished">Tor Onion hizmetleri için ayrı bir SOCKS5 proxy aracılığıyla Pingvincoin ağına bağlanın. </translation>
     </message>
     <message>
         <source>Use separate SOCKS&amp;5 proxy to reach peers via Tor onion services:</source>
@@ -1728,8 +1728,8 @@ Cüzdan kilidini aç.</translation>
 <context>
     <name>OverviewPage</name>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation type="unfinished">Görüntülenen bilgiler güncel olmayabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak Bitcoin ağı ile senkronize olur ancak bu işlem henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pingvincoin network after a connection is established, but this process has not completed yet.</source>
+        <translation type="unfinished">Görüntülenen bilgiler güncel olmayabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak Pingvincoin ağı ile senkronize olur ancak bu işlem henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1910,20 +1910,20 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Ödeme isteği hatası</translation>
     </message>
     <message>
-        <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation type="unfinished">Bitcoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
+        <source>Cannot start pingvincoin: click-to-pay handler</source>
+        <translation type="unfinished">Pingvincoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
     </message>
     <message>
         <source>URI handling</source>
         <translation type="unfinished">URI yönetimi</translation>
     </message>
     <message>
-        <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation type="unfinished">'bitcoin://' geçerli bir URI değil. Onun yerine 'bitcoin:' kullanın.</translation>
+        <source>'pingvincoin://' is not a valid URI. Use 'pingvincoin:' instead.</source>
+        <translation type="unfinished">'pingvincoin://' geçerli bir URI değil. Onun yerine 'pingvincoin:' kullanın.</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation type="unfinished">URI ayrıştırılamıyor! Bunun nedeni geçersiz bir Bitcoin adresi veya hatalı biçimlendirilmiş URI değişkenleri olabilir.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Pingvincoin address or malformed URI parameters.</source>
+        <translation type="unfinished">URI ayrıştırılamıyor! Bunun nedeni geçersiz bir Pingvincoin adresi veya hatalı biçimlendirilmiş URI değişkenleri olabilir.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -2393,8 +2393,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">&amp;Mesaj:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation type="unfinished">Talep açıldığında gösterilecek, isteğinize dayalı, ödeme talebi ile ilişkilendirilecek bir ileti. Not: Bu ileti ödeme ile birlikte Bitcoin ağı üzerinden gönderilmeyecektir.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Pingvincoin network.</source>
+        <translation type="unfinished">Talep açıldığında gösterilecek, isteğinize dayalı, ödeme talebi ile ilişkilendirilecek bir ileti. Not: Bu ileti ödeme ile birlikte Pingvincoin ağı üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2555,7 +2555,7 @@ Cüzdan kilidini aç.</translation>
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation type="unfinished">Bitcoini Gönder</translation>
+        <translation type="unfinished">Pingvincoini Gönder</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -2724,9 +2724,9 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Bu işlemi oluşturmak ister misiniz?</translation>
     </message>
     <message>
-        <source>Please, review your transaction. You can create and send this transaction or create a Partially Signed Bitcoin Transaction (PSBT), which you can save or copy and then sign with, e.g., an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <source>Please, review your transaction. You can create and send this transaction or create a Partially Signed Pingvincoin Transaction (PSBT), which you can save or copy and then sign with, e.g., an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
         <extracomment>Text to inform a user attempting to create a transaction of their current options. At this stage, a user can send their transaction or create a PSBT. This string is displayed when both private keys and PSBT controls are enabled.</extracomment>
-        <translation type="unfinished">Lütfen işleminizi gözden geçirin. Bu işlemi oluşturabilir ve gönderebilir veya örneğin çevrimdışı bir %1 cüzdanı veya PSBT uyumlu bir donanım cüzdanı gibi kaydedebileceğiniz veya kopyalayabileceğiniz ve ardından imzalayabileceğiniz bir Kısmen İmzalı Bitcoin İşlemi (PSBT) oluşturabilirsiniz.</translation>
+        <translation type="unfinished">Lütfen işleminizi gözden geçirin. Bu işlemi oluşturabilir ve gönderebilir veya örneğin çevrimdışı bir %1 cüzdanı veya PSBT uyumlu bir donanım cüzdanı gibi kaydedebileceğiniz veya kopyalayabileceğiniz ve ardından imzalayabileceğiniz bir Kısmen İmzalı Pingvincoin İşlemi (PSBT) oluşturabilirsiniz.</translation>
     </message>
     <message>
         <source>Please, review your transaction.</source>
@@ -2749,7 +2749,7 @@ Cüzdan kilidini aç.</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation type="unfinished">Bitcoin gönderimini onaylayın</translation>
+        <translation type="unfinished">Pingvincoin gönderimini onaylayın</translation>
     </message>
     <message>
         <source>The recipient address is not valid. Please recheck.</source>
@@ -2786,8 +2786,8 @@ Cüzdan kilidini aç.</translation>
         </translation>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation type="unfinished">Uyarı: geçersiz Bitcoin adresi</translation>
+        <source>Warning: Invalid Pingvincoin address</source>
+        <translation type="unfinished">Uyarı: geçersiz Pingvincoin adresi</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2825,8 +2825,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Önceden kullanılmış adres seç</translation>
     </message>
     <message>
-        <source>The Bitcoin address to send the payment to</source>
-        <translation type="unfinished">Ödemenin yollanacağı Bitcoin adresi</translation>
+        <source>The Pingvincoin address to send the payment to</source>
+        <translation type="unfinished">Ödemenin yollanacağı Pingvincoin adresi</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
@@ -2837,8 +2837,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Bu ögeyi kaldır</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation type="unfinished">Ücret yollanan tutardan alınacaktır. Alıcı tutar alanına girdiğinizden daha az bitcoin alacaktır. Eğer birden çok alıcı seçiliyse ücret eşit olarak bölünecektir.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less pingvincoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation type="unfinished">Ücret yollanan tutardan alınacaktır. Alıcı tutar alanına girdiğinizden daha az pingvincoin alacaktır. Eğer birden çok alıcı seçiliyse ücret eşit olarak bölünecektir.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2857,8 +2857,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Kullanılmış adres listesine eklemek için bu adrese bir etiket girin</translation>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation type="unfinished">Referans için bitcoin: URI'siyle iliştirilmiş işlemle birlikte depolanacak bir ileti. Not: Bu mesaj Bitcoin ağı üzerinden gönderilmeyecektir.</translation>
+        <source>A message that was attached to the pingvincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Pingvincoin network.</source>
+        <translation type="unfinished">Referans için pingvincoin: URI'siyle iliştirilmiş işlemle birlikte depolanacak bir ileti. Not: Bu mesaj Pingvincoin ağı üzerinden gönderilmeyecektir.</translation>
     </message>
 </context>
 <context>
@@ -2883,12 +2883,12 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">İleti &amp;imzala</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive bitcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation type="unfinished">Adreslerinize yollanan bitcoinleri alabileceğiniz ispatlamak için adreslerinizle iletiler/anlaşmalar imzalayabilirsiniz. Oltalama saldırılarının kimliğinizi imzanızla elde etmeyi deneyebilecekleri için belirsiz ya da rastgele hiçbir şey imzalamamaya dikkat ediniz. Sadece ayrıntılı açıklaması olan ve tümüne katıldığınız ifadeleri imzalayınız.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive pingvincoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation type="unfinished">Adreslerinize yollanan pingvincoinleri alabileceğiniz ispatlamak için adreslerinizle iletiler/anlaşmalar imzalayabilirsiniz. Oltalama saldırılarının kimliğinizi imzanızla elde etmeyi deneyebilecekleri için belirsiz ya da rastgele hiçbir şey imzalamamaya dikkat ediniz. Sadece ayrıntılı açıklaması olan ve tümüne katıldığınız ifadeleri imzalayınız.</translation>
     </message>
     <message>
-        <source>The Bitcoin address to sign the message with</source>
-        <translation type="unfinished">İletinin imzalanmasında kullanılacak Bitcoin adresi</translation>
+        <source>The Pingvincoin address to sign the message with</source>
+        <translation type="unfinished">İletinin imzalanmasında kullanılacak Pingvincoin adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2911,8 +2911,8 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Güncel imzayı sistem panosuna kopyala</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation type="unfinished">Bu Bitcoin adresinin sizin olduğunu ispatlamak için iletiyi imzalayın</translation>
+        <source>Sign the message to prove you own this Pingvincoin address</source>
+        <translation type="unfinished">Bu Pingvincoin adresinin sizin olduğunu ispatlamak için iletiyi imzalayın</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2935,16 +2935,16 @@ Cüzdan kilidini aç.</translation>
         <translation type="unfinished">Alıcının adresini, iletiyi (satır sonları, boşluklar, sekmeler vs. karakterleri tam olarak kopyaladığınızdan emin olunuz) ve imzayı aşağıya giriniz. Bir ortadaki adam saldırısı tarafından kandırılmaya engel olmak için imzadan, imzalı iletinin içeriğini aşan bir anlam çıkarmamaya dikkat ediniz. Bunun sadece imzalayan tarafın adres ile alım yapabildiğini ispatladığını ve herhangi bir işlemin gönderi tarafını kanıtlayamayacağını unutmayınız!</translation>
     </message>
     <message>
-        <source>The Bitcoin address the message was signed with</source>
-        <translation type="unfinished">İletinin imzalanmasında kullanılan Bitcoin adresi</translation>
+        <source>The Pingvincoin address the message was signed with</source>
+        <translation type="unfinished">İletinin imzalanmasında kullanılan Pingvincoin adresi</translation>
     </message>
     <message>
         <source>The signed message to verify</source>
         <translation type="unfinished">Doğrulamak için imzalanmış mesaj</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation type="unfinished">Belirtilen Bitcoin adresi ile imzalandığını doğrulamak için iletiyi kontrol et</translation>
+        <source>Verify the message to ensure it was signed with the specified Pingvincoin address</source>
+        <translation type="unfinished">Belirtilen Pingvincoin adresi ile imzalandığını doğrulamak için iletiyi kontrol et</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3158,7 +3158,7 @@ Cüzdan kilidini aç.</translation>
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation type="unfinished">Oluşturulan bitcoin'lerin harcanabilmelerinden önce %1 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda, blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu "kabul edilmedi" olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
+        <translation type="unfinished">Oluşturulan pingvincoin'lerin harcanabilmelerinden önce %1 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda, blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu "kabul edilmedi" olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
     </message>
     <message>
         <source>Debug information</source>
@@ -3439,7 +3439,7 @@ Cüzdan kilidini aç.</translation>
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation type="unfinished">Bitcoini Gönder</translation>
+        <translation type="unfinished">Pingvincoini Gönder</translation>
     </message>
     <message>
         <source>Fee bump error</source>
@@ -3529,7 +3529,7 @@ Cüzdan kilidini aç.</translation>
     </message>
 </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>pingvincoin-core</name>
     <message>
         <source>The %s developers</source>
         <translation type="unfinished">%s geliştiricileri</translation>
@@ -3584,7 +3584,7 @@ Cüzdan kilidini aç.</translation>
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation type="unfinished">Bu kararlı sürümden önceki bir deneme sürümüdür. - risklerini bilerek kullanma sorumluluğu sizdedir - bitcoin oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
+        <translation type="unfinished">Bu kararlı sürümden önceki bir deneme sürümüdür. - risklerini bilerek kullanma sorumluluğu sizdedir - pingvincoin oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
     </message>
     <message>
         <source>This is the transaction fee you may pay when fee estimates are not available.</source>
@@ -3826,7 +3826,7 @@ Cüzdan yedeği geri yüklenemiyor.</translation>
     </message>
     <message>
         <source>The transaction amount is too small to pay the fee</source>
-        <translation type="unfinished">İşlemdeki bitcoin tutarı ücreti ödemek için çok düşük</translation>
+        <translation type="unfinished">İşlemdeki pingvincoin tutarı ücreti ödemek için çok düşük</translation>
     </message>
     <message>
         <source>The wallet will avoid paying less than the minimum relay fee.</source>

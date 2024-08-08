@@ -3,7 +3,7 @@ Mempool Policy Changes
 
 - Transactions with version number set to 3 are now treated as standard on all networks (#29496),
   subject to Opt-in Topologically Restricted Until Confirmation (TRUC) Transactions policy as
-  described in [BIP 431](https://github.com/bitcoin/bips/blob/master/bip-0431.mediawiki).  The
+  described in [BIP 431](https://github.com/pingvincoin/bips/blob/master/bip-0431.mediawiki).  The
   policy includes limits on spending unconfirmed outputs (#28948), eviction of a previous descendant
   if a more incentive-compatible one is submitted (#29306), and a maximum transaction size of 10,000vB
   (#29873). These restrictions simplify the assessment of incentive compatibility of accepting or

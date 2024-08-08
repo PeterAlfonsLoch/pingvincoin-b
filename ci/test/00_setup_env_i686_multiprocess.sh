@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Copyright (c) 2020-present The Bitcoin Core developers
+# Copyright (c) 2020-present The Pingvincoin Core developers
 # Distributed under the MIT software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -15,4 +15,4 @@ export GOAL="install"
 export TEST_RUNNER_EXTRA="--v2transport"
 export BITCOIN_CONFIG="--enable-debug CC='clang -m32' CXX='clang++ -m32' \
 CPPFLAGS='-DBOOST_MULTI_INDEX_ENABLE_SAFE_MODE' CXXFLAGS='-Wno-error=documentation'"
-export BITCOIND=bitcoin-node  # Used in functional tests
+export BITCOIND=pingvincoin-node  # Used in functional tests

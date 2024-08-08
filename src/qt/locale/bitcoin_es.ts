@@ -58,13 +58,13 @@
         <translation type="unfinished">&amp;Elegir</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation type="unfinished">Estas son tus direcciones de Bitcoin para enviar pagos. Revisa siempre el importe y la dirección de recepción antes de enviar monedas.</translation>
+        <source>These are your Pingvincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation type="unfinished">Estas son tus direcciones de Pingvincoin para enviar pagos. Revisa siempre el importe y la dirección de recepción antes de enviar monedas.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.
+        <source>These are your Pingvincoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.
 Signing is only possible with addresses of the type 'legacy'.</source>
-        <translation type="unfinished">Estas son tus direcciones de Bitcoin para recibir pagos. Usa el botón "Crear nueva dirección de recepción" en la pestaña "Recibir" para crear nuevas direcciones.
+        <translation type="unfinished">Estas son tus direcciones de Pingvincoin para recibir pagos. Usa el botón "Crear nueva dirección de recepción" en la pestaña "Recibir" para crear nuevas direcciones.
 Solo es posible firmar con direcciones de tipo "legacy".</translation>
     </message>
     <message>
@@ -184,8 +184,8 @@ Solo es posible firmar con direcciones de tipo "legacy".</translation>
         <translation type="unfinished">Introduce la frase de contraseña antigua y la nueva para el monedero.</translation>
     </message>
     <message>
-        <source>Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished">Recuerda que cifrar tu monedero no garantiza la protección total de tus bitcoins contra robos si el equipo está infectado con malware.</translation>
+        <source>Remember that encrypting your wallet cannot fully protect your pingvincoins from being stolen by malware infecting your computer.</source>
+        <translation type="unfinished">Recuerda que cifrar tu monedero no garantiza la protección total de tus pingvincoins contra robos si el equipo está infectado con malware.</translation>
     </message>
     <message>
         <source>Wallet to be encrypted</source>
@@ -256,7 +256,7 @@ Solo es posible firmar con direcciones de tipo "legacy".</translation>
     </message>
 </context>
 <context>
-    <name>BitcoinApplication</name>
+    <name>PingvincoinApplication</name>
     <message>
         <source>Settings file %1 might be corrupt or invalid.</source>
         <translation type="unfinished">El archivo de configuración %1 puede estar corrupto o no ser válido.</translation>
@@ -315,8 +315,8 @@ Solo es posible firmar con direcciones de tipo "legacy".</translation>
         <translation type="unfinished">Importe</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation type="unfinished">Ingresa una dirección de Bitcoin (p. ej., %1)</translation>
+        <source>Enter a Pingvincoin address (e.g. %1)</source>
+        <translation type="unfinished">Ingresa una dirección de Pingvincoin (p. ej., %1)</translation>
     </message>
     <message>
         <source>Unroutable</source>
@@ -408,7 +408,7 @@ Solo es posible firmar con direcciones de tipo "legacy".</translation>
     </message>
     </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>PingvincoinGUI</name>
     <message>
         <source>&amp;Overview</source>
         <translation type="unfinished">&amp;Vista general</translation>
@@ -475,8 +475,8 @@ Solo es posible firmar con direcciones de tipo "legacy".</translation>
         <translation type="unfinished">El proxy está &lt;b&gt;habilitado&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation type="unfinished">Enviar monedas a una dirección Bitcoin</translation>
+        <source>Send coins to a Pingvincoin address</source>
+        <translation type="unfinished">Enviar monedas a una dirección Pingvincoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -519,16 +519,16 @@ Solo es posible firmar con direcciones de tipo "legacy".</translation>
         <translation type="unfinished">Firmar &amp;mensaje…</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation type="unfinished">Firmar mensajes con tus direcciones de Bitcoin para probar la propiedad</translation>
+        <source>Sign messages with your Pingvincoin addresses to prove you own them</source>
+        <translation type="unfinished">Firmar mensajes con tus direcciones de Pingvincoin para probar la propiedad</translation>
     </message>
     <message>
         <source>&amp;Verify message…</source>
         <translation type="unfinished">&amp;Verificar mensaje…</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation type="unfinished">Verificar mensajes para comprobar que fueron firmados con la dirección Bitcoin indicada</translation>
+        <source>Verify messages to ensure they were signed with specified Pingvincoin addresses</source>
+        <translation type="unfinished">Verificar mensajes para comprobar que fueron firmados con la dirección Pingvincoin indicada</translation>
     </message>
     <message>
         <source>&amp;Load PSBT from file…</source>
@@ -587,8 +587,8 @@ Solo es posible firmar con direcciones de tipo "legacy".</translation>
         <translation type="unfinished">Conectando con pares…</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation type="unfinished">Solicitar pagos (genera códigos QR y URI de tipo "bitcoin:")</translation>
+        <source>Request payments (generates QR codes and pingvincoin: URIs)</source>
+        <translation type="unfinished">Solicitar pagos (genera códigos QR y URI de tipo "pingvincoin:")</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -638,16 +638,16 @@ Solo es posible firmar con direcciones de tipo "legacy".</translation>
         <translation type="unfinished">Al día</translation>
     </message>
     <message>
-        <source>Load Partially Signed Bitcoin Transaction</source>
-        <translation type="unfinished">Cargar una transacción de Bitcoin parcialmente firmada</translation>
+        <source>Load Partially Signed Pingvincoin Transaction</source>
+        <translation type="unfinished">Cargar una transacción de Pingvincoin parcialmente firmada</translation>
     </message>
     <message>
         <source>Load PSBT from &amp;clipboard…</source>
         <translation type="unfinished">Cargar TBPF desde &amp;portapapeles...</translation>
     </message>
     <message>
-        <source>Load Partially Signed Bitcoin Transaction from clipboard</source>
-        <translation type="unfinished">Cargar una transacción de Bitcoin parcialmente firmada desde el portapapeles</translation>
+        <source>Load Partially Signed Pingvincoin Transaction from clipboard</source>
+        <translation type="unfinished">Cargar una transacción de Pingvincoin parcialmente firmada desde el portapapeles</translation>
     </message>
     <message>
         <source>Node window</source>
@@ -666,8 +666,8 @@ Solo es posible firmar con direcciones de tipo "legacy".</translation>
         <translation type="unfinished">&amp;Direcciones de recepción</translation>
     </message>
     <message>
-        <source>Open a bitcoin: URI</source>
-        <translation type="unfinished">Abrir un URI de tipo "bitcoin:"</translation>
+        <source>Open a pingvincoin: URI</source>
+        <translation type="unfinished">Abrir un URI de tipo "pingvincoin:"</translation>
     </message>
     <message>
         <source>Open Wallet</source>
@@ -704,8 +704,8 @@ Solo es posible firmar con direcciones de tipo "legacy".</translation>
         <translation type="unfinished">Migrar un monedero</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Bitcoin command-line options</source>
-        <translation type="unfinished">Muestra el mensaje de ayuda %1 para obtener una lista con posibles opciones de línea de comandos de Bitcoin.</translation>
+        <source>Show the %1 help message to get a list with possible Pingvincoin command-line options</source>
+        <translation type="unfinished">Muestra el mensaje de ayuda %1 para obtener una lista con posibles opciones de línea de comandos de Pingvincoin.</translation>
     </message>
     <message>
         <source>&amp;Mask values</source>
@@ -768,11 +768,11 @@ Solo es posible firmar con direcciones de tipo "legacy".</translation>
         <translation type="unfinished">&amp;Mostrar</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network.</source>
+        <source>%n active connection(s) to Pingvincoin network.</source>
         <extracomment>A substring of the tooltip.</extracomment>
         <translation type="unfinished">
-            <numerusform>%n conexión activa con la red Bitcoin.</numerusform>
-            <numerusform>%n conexiones activas con la red Bitcoin.</numerusform>
+            <numerusform>%n conexión activa con la red Pingvincoin.</numerusform>
+            <numerusform>%n conexiones activas con la red Pingvincoin.</numerusform>
         </translation>
     </message>
     <message>
@@ -1290,8 +1290,8 @@ El proceso de migración creará una copia de seguridad del monedero antes de mi
         <translation type="unfinished">Editar dirección de envío</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation type="unfinished">La dirección introducida "%1" no es una dirección Bitcoin válida.</translation>
+        <source>The entered address "%1" is not a valid Pingvincoin address.</source>
+        <translation type="unfinished">La dirección introducida "%1" no es una dirección Pingvincoin válida.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -1377,8 +1377,8 @@ El proceso de migración creará una copia de seguridad del monedero antes de mi
         </translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Bitcoin block chain.</source>
-        <translation type="unfinished">%1 descargará y almacenará una copia de la cadena de bloques de Bitcoin.</translation>
+        <source>%1 will download and store a copy of the Pingvincoin block chain.</source>
+        <translation type="unfinished">%1 descargará y almacenará una copia de la cadena de bloques de Pingvincoin.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1462,12 +1462,12 @@ El proceso de migración creará una copia de seguridad del monedero antes de mi
         <translation type="unfinished">Formulario</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the bitcoin network, as detailed below.</source>
-        <translation type="unfinished">Es posible que las transacciones recientes aún no estén visibles y, por lo tanto, el saldo del monedero podría ser incorrecto. Esta información será correcta una vez que el monedero haya terminado de sincronizarse con la red Bitcoin, como se detalla a continuación.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the pingvincoin network, as detailed below.</source>
+        <translation type="unfinished">Es posible que las transacciones recientes aún no estén visibles y, por lo tanto, el saldo del monedero podría ser incorrecto. Esta información será correcta una vez que el monedero haya terminado de sincronizarse con la red Pingvincoin, como se detalla a continuación.</translation>
     </message>
     <message>
-        <source>Attempting to spend bitcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation type="unfinished">La red no aceptará intentar gastar bitcoins que se vean afectados por transacciones aún no mostradas.</translation>
+        <source>Attempting to spend pingvincoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation type="unfinished">La red no aceptará intentar gastar pingvincoins que se vean afectados por transacciones aún no mostradas.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1517,8 +1517,8 @@ El proceso de migración creará una copia de seguridad del monedero antes de mi
 <context>
     <name>OpenURIDialog</name>
     <message>
-        <source>Open bitcoin URI</source>
-        <translation type="unfinished">Abrir URI de tipo "bitcoin:"</translation>
+        <source>Open pingvincoin URI</source>
+        <translation type="unfinished">Abrir URI de tipo "pingvincoin:"</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
@@ -1681,16 +1681,16 @@ El proceso de migración creará una copia de seguridad del monedero antes de mi
         <translation type="unfinished">&amp;Ruta al script del firmante externo</translation>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation type="unfinished">Abrir automáticamente el puerto del cliente Bitcoin en el enrutador. Esta opción solo funciona cuando el enrutador admite UPnP y está activado.</translation>
+        <source>Automatically open the Pingvincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation type="unfinished">Abrir automáticamente el puerto del cliente Pingvincoin en el enrutador. Esta opción solo funciona cuando el enrutador admite UPnP y está activado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation type="unfinished">Asignar puerto mediante &amp;UPnP</translation>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports NAT-PMP and it is enabled. The external port could be random.</source>
-        <translation type="unfinished">Abre el puerto del cliente de Bitcoin en el enrutador automáticamente. Esto solo funciona cuando el enrutador soporta NAT-PMP y está activo. El puerto externo podría ser elegido al azar.</translation>
+        <source>Automatically open the Pingvincoin client port on the router. This only works when your router supports NAT-PMP and it is enabled. The external port could be random.</source>
+        <translation type="unfinished">Abre el puerto del cliente de Pingvincoin en el enrutador automáticamente. Esto solo funciona cuando el enrutador soporta NAT-PMP y está activo. El puerto externo podría ser elegido al azar.</translation>
     </message>
     <message>
         <source>Map port using NA&amp;T-PMP</source>
@@ -1705,8 +1705,8 @@ El proceso de migración creará una copia de seguridad del monedero antes de mi
         <translation type="unfinished">&amp;Permitir conexiones entrantes</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation type="unfinished">Conectar a la red de Bitcoin a través de un proxy SOCKS5.</translation>
+        <source>Connect to the Pingvincoin network through a SOCKS5 proxy.</source>
+        <translation type="unfinished">Conectar a la red de Pingvincoin a través de un proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1785,8 +1785,8 @@ El proceso de migración creará una copia de seguridad del monedero antes de mi
         <translation type="unfinished">Mostrar o no la funcionalidad de control de monedas.</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor onion services.</source>
-        <translation type="unfinished">Conectarse a la red de Bitcoin a través de un proxy SOCKS5 independiente para los servicios onion de Tor.</translation>
+        <source>Connect to the Pingvincoin network through a separate SOCKS5 proxy for Tor onion services.</source>
+        <translation type="unfinished">Conectarse a la red de Pingvincoin a través de un proxy SOCKS5 independiente para los servicios onion de Tor.</translation>
     </message>
     <message>
         <source>Use separate SOCKS&amp;5 proxy to reach peers via Tor onion services:</source>
@@ -1878,8 +1878,8 @@ El proceso de migración creará una copia de seguridad del monedero antes de mi
         <translation type="unfinished">Formulario</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation type="unfinished">La información mostrada puede estar desactualizada. El monedero se sincroniza automáticamente con la red de Bitcoin después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pingvincoin network after a connection is established, but this process has not completed yet.</source>
+        <translation type="unfinished">La información mostrada puede estar desactualizada. El monedero se sincroniza automáticamente con la red de Pingvincoin después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -2089,16 +2089,16 @@ El proceso de migración creará una copia de seguridad del monedero antes de mi
         <translation type="unfinished">Error en la solicitud de pago</translation>
     </message>
     <message>
-        <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation type="unfinished">No se puede iniciar el controlador "bitcoin: click-to-pay"</translation>
+        <source>Cannot start pingvincoin: click-to-pay handler</source>
+        <translation type="unfinished">No se puede iniciar el controlador "pingvincoin: click-to-pay"</translation>
     </message>
     <message>
         <source>URI handling</source>
         <translation type="unfinished">Gestión de URI</translation>
     </message>
     <message>
-        <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation type="unfinished">"bitcoin://" no es un URI válido. Usa "bitcoin:" en su lugar.</translation>
+        <source>'pingvincoin://' is not a valid URI. Use 'pingvincoin:' instead.</source>
+        <translation type="unfinished">"pingvincoin://" no es un URI válido. Usa "pingvincoin:" en su lugar.</translation>
     </message>
     <message>
         <source>Cannot process payment request because BIP70 is not supported.
@@ -2109,8 +2109,8 @@ Debido a los fallos de seguridad generalizados en BIP70, se recomienda encarecid
 Si recibes este error, debes solicitar al comerciante que te proporcione un URI compatible con BIP21.</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation type="unfinished">No se puede analizar el URI. Esto se puede deber a una dirección de Bitcoin inválida o a parámetros de URI con formato incorrecto.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Pingvincoin address or malformed URI parameters.</source>
+        <translation type="unfinished">No se puede analizar el URI. Esto se puede deber a una dirección de Pingvincoin inválida o a parámetros de URI con formato incorrecto.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -2693,8 +2693,8 @@ Para obtener más información sobre cómo usar esta consola, escribe %6.
         <translation type="unfinished">&amp;Mensaje:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation type="unfinished">Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud esté abierta. Nota: el mensaje no se enviará con el pago a través de la red de Bitcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Pingvincoin network.</source>
+        <translation type="unfinished">Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud esté abierta. Nota: el mensaje no se enviará con el pago a través de la red de Pingvincoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2986,8 +2986,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee rate of "100 satos
 Nota: Dado que la comisión se calcula por byte, una tasa de "100 satoshis por kvB" para una transacción de 500 bytes virtuales (la mitad de 1 kvB) supondría finalmente una comisión de solo 50 satoshis.</translation>
     </message>
     <message>
-        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for bitcoin transactions than the network can process.</source>
-        <translation type="unfinished">Cuando hay menos volumen de transacciones que espacio en los bloques, los mineros y los nodos de retransmisión pueden aplicar una comisión mínima. Está bien pagar solo esta comisión mínima, pero ten en cuenta que esto puede ocasionar que una transacción nunca se confirme una vez que haya más demanda de transacciones de Bitcoin de la que puede procesar la red.</translation>
+        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for pingvincoin transactions than the network can process.</source>
+        <translation type="unfinished">Cuando hay menos volumen de transacciones que espacio en los bloques, los mineros y los nodos de retransmisión pueden aplicar una comisión mínima. Está bien pagar solo esta comisión mínima, pero ten en cuenta que esto puede ocasionar que una transacción nunca se confirme una vez que haya más demanda de transacciones de Pingvincoin de la que puede procesar la red.</translation>
     </message>
     <message>
         <source>A too low fee might result in a never confirming transaction (read the tooltip)</source>
@@ -3072,8 +3072,8 @@ Nota: Dado que la comisión se calcula por byte, una tasa de "100 satoshis por k
         <translation type="unfinished">&amp;Crear sin firmar</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation type="unfinished">Crea una transacción de Bitcoin parcialmente firmada (TBPF) para usarla, por ejemplo, con un monedero %1 sin conexión o un monedero de hardware compatible con TBPF.</translation>
+        <source>Creates a Partially Signed Pingvincoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <translation type="unfinished">Crea una transacción de Pingvincoin parcialmente firmada (TBPF) para usarla, por ejemplo, con un monedero %1 sin conexión o un monedero de hardware compatible con TBPF.</translation>
     </message>
     <message>
         <source>%1 to '%2'</source>
@@ -3128,9 +3128,9 @@ Nota: Dado que la comisión se calcula por byte, una tasa de "100 satoshis por k
         <translation type="unfinished">Puedes aumentar la comisión después (indica "Reemplazar por comisión", BIP-125).</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can save or copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Pingvincoin Transaction (PSBT) which you can save or copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
         <extracomment>Text to inform a user attempting to create a transaction of their current options. At this stage, a user can only create a PSBT. This string is displayed when private keys are disabled and an external signer is not available.</extracomment>
-        <translation type="unfinished">Revisa por favor la propuesta de transacción. Esto producirá una transacción de Bitcoin parcialmente firmada (TBPF) que puedes guardar o copiar y, luego, firmar; por ejemplo, con un monedero %1 fuera de línea o un monedero de hardware compatible con TBPF.</translation>
+        <translation type="unfinished">Revisa por favor la propuesta de transacción. Esto producirá una transacción de Pingvincoin parcialmente firmada (TBPF) que puedes guardar o copiar y, luego, firmar; por ejemplo, con un monedero %1 fuera de línea o un monedero de hardware compatible con TBPF.</translation>
     </message>
     <message>
         <source>%1 from wallet '%2'</source>
@@ -3142,9 +3142,9 @@ Nota: Dado que la comisión se calcula por byte, una tasa de "100 satoshis por k
         <translation type="unfinished">¿Deseas crear esta transacción?</translation>
     </message>
     <message>
-        <source>Please, review your transaction. You can create and send this transaction or create a Partially Signed Bitcoin Transaction (PSBT), which you can save or copy and then sign with, e.g., an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <source>Please, review your transaction. You can create and send this transaction or create a Partially Signed Pingvincoin Transaction (PSBT), which you can save or copy and then sign with, e.g., an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
         <extracomment>Text to inform a user attempting to create a transaction of their current options. At this stage, a user can send their transaction or create a PSBT. This string is displayed when both private keys and PSBT controls are enabled.</extracomment>
-        <translation type="unfinished">Revisa por favor la transacción. Puedes crear y enviar esta transacción de Bitcoin parcialmente firmada (TBPF), que además puedes guardar o copiar y, luego, firmar; por ejemplo, con un monedero %1 sin conexión o un monedero de hardware compatible con TBPF.</translation>
+        <translation type="unfinished">Revisa por favor la transacción. Puedes crear y enviar esta transacción de Pingvincoin parcialmente firmada (TBPF), que además puedes guardar o copiar y, luego, firmar; por ejemplo, con un monedero %1 sin conexión o un monedero de hardware compatible con TBPF.</translation>
     </message>
     <message>
         <source>Please, review your transaction.</source>
@@ -3221,8 +3221,8 @@ Nota: Dado que la comisión se calcula por byte, una tasa de "100 satoshis por k
         </translation>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation type="unfinished">Advertencia: Dirección de Bitcoin no válida</translation>
+        <source>Warning: Invalid Pingvincoin address</source>
+        <translation type="unfinished">Advertencia: Dirección de Pingvincoin no válida</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -3260,8 +3260,8 @@ Nota: Dado que la comisión se calcula por byte, una tasa de "100 satoshis por k
         <translation type="unfinished">Escoger una dirección usada anteriormente</translation>
     </message>
     <message>
-        <source>The Bitcoin address to send the payment to</source>
-        <translation type="unfinished">La dirección de Bitcoin a la que se enviará el pago</translation>
+        <source>The Pingvincoin address to send the payment to</source>
+        <translation type="unfinished">La dirección de Pingvincoin a la que se enviará el pago</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
@@ -3276,8 +3276,8 @@ Nota: Dado que la comisión se calcula por byte, una tasa de "100 satoshis por k
         <translation type="unfinished">El importe que se enviará en la unidad seleccionada</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation type="unfinished">La comisión se deducirá del monto del envío. El destinatario recibirá menos bitcoins que los que ingreses en el campo de cantidad. Si se seleccionan varios destinatarios, la comisión se divide por igual.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less pingvincoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation type="unfinished">La comisión se deducirá del monto del envío. El destinatario recibirá menos pingvincoins que los que ingreses en el campo de cantidad. Si se seleccionan varios destinatarios, la comisión se divide por igual.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -3296,8 +3296,8 @@ Nota: Dado que la comisión se calcula por byte, una tasa de "100 satoshis por k
         <translation type="unfinished">Ingresar una etiqueta para esta dirección a fin de agregarla a la lista de direcciones utilizadas</translation>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation type="unfinished">Un mensaje adjunto al URI de tipo "bitcoin:" que se almacenará con la transacción a modo de referencia. Nota: Este mensaje no se enviará por la red de Bitcoin.</translation>
+        <source>A message that was attached to the pingvincoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Pingvincoin network.</source>
+        <translation type="unfinished">Un mensaje adjunto al URI de tipo "pingvincoin:" que se almacenará con la transacción a modo de referencia. Nota: Este mensaje no se enviará por la red de Pingvincoin.</translation>
     </message>
 </context>
 <context>
@@ -3322,12 +3322,12 @@ Nota: Dado que la comisión se calcula por byte, una tasa de "100 satoshis por k
         <translation type="unfinished">&amp;Firmar mensaje</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive bitcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation type="unfinished">Puedes firmar mensajes o acuerdos con tus direcciones para demostrar que puedes recibir los bitcoins que se envíen a ellas. Ten cuidado de no firmar cosas confusas o al azar, ya que los ataques de phishing pueden tratar de engañarte para que les envíes la firma con tu identidad. Firma solo declaraciones totalmente detalladas con las que estés de acuerdo.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive pingvincoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation type="unfinished">Puedes firmar mensajes o acuerdos con tus direcciones para demostrar que puedes recibir los pingvincoins que se envíen a ellas. Ten cuidado de no firmar cosas confusas o al azar, ya que los ataques de phishing pueden tratar de engañarte para que les envíes la firma con tu identidad. Firma solo declaraciones totalmente detalladas con las que estés de acuerdo.</translation>
     </message>
     <message>
-        <source>The Bitcoin address to sign the message with</source>
-        <translation type="unfinished">La dirección de Bitcoin con la que se firmará el mensaje</translation>
+        <source>The Pingvincoin address to sign the message with</source>
+        <translation type="unfinished">La dirección de Pingvincoin con la que se firmará el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3350,8 +3350,8 @@ Nota: Dado que la comisión se calcula por byte, una tasa de "100 satoshis por k
         <translation type="unfinished">Copiar la dirección seleccionada actualmente al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation type="unfinished">Firmar el mensaje para demostrar que esta dirección de Bitcoin te pertenece</translation>
+        <source>Sign the message to prove you own this Pingvincoin address</source>
+        <translation type="unfinished">Firmar el mensaje para demostrar que esta dirección de Pingvincoin te pertenece</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3374,8 +3374,8 @@ Nota: Dado que la comisión se calcula por byte, una tasa de "100 satoshis por k
         <translation type="unfinished">Ingresa la dirección del destinatario, el mensaje (recuerda copiar los saltos de línea, espacios, tabulaciones, etc. con exactitud) y la firma a continuación para verificar el mensaje. Ten cuidado de no leer en la firma más de lo que contiene el propio mensaje firmado, para evitar ser víctima de un engaño por ataque de intermediario. Ten en cuenta que esto solo prueba que la parte firmante recibe con esta dirección; no puede demostrar la condición de remitente de ninguna transacción.</translation>
     </message>
     <message>
-        <source>The Bitcoin address the message was signed with</source>
-        <translation type="unfinished">La dirección de Bitcoin con la que se firmó el mensaje</translation>
+        <source>The Pingvincoin address the message was signed with</source>
+        <translation type="unfinished">La dirección de Pingvincoin con la que se firmó el mensaje</translation>
     </message>
     <message>
         <source>The signed message to verify</source>
@@ -3386,8 +3386,8 @@ Nota: Dado que la comisión se calcula por byte, una tasa de "100 satoshis por k
         <translation type="unfinished">La firma proporcionada cuando el mensaje fue firmado</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation type="unfinished">Verifica el mensaje para asegurarte de que se firmó con la dirección de Bitcoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Pingvincoin address</source>
+        <translation type="unfinished">Verifica el mensaje para asegurarte de que se firmó con la dirección de Pingvincoin especificada.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -4041,14 +4041,14 @@ Ve a "Archivo &gt; Abrir monedero" para cargar uno.
     </message>
 </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>pingvincoin-core</name>
     <message>
         <source>The %s developers</source>
         <translation type="unfinished">Los desarrolladores de %s</translation>
     </message>
     <message>
-        <source>%s corrupt. Try using the wallet tool bitcoin-wallet to salvage or restoring a backup.</source>
-        <translation type="unfinished">%s corrupto. Intenta utilizar la herramienta del monedero de Bitcoin para rescatar o restaurar una copia de seguridad.</translation>
+        <source>%s corrupt. Try using the wallet tool pingvincoin-wallet to salvage or restoring a backup.</source>
+        <translation type="unfinished">%s corrupto. Intenta utilizar la herramienta del monedero de Pingvincoin para rescatar o restaurar una copia de seguridad.</translation>
     </message>
     <message>
         <source>%s failed to validate the -assumeutxo snapshot state. This indicates a hardware problem, or a bug in the software, or a bad software modification that allowed an invalid snapshot to be loaded. As a result of this, the node will shut down and stop using any state that was built on the snapshot, resetting the chain height from %d to %d. On the next restart, the node will resume syncing from %d without using any snapshot data. Please report this incident to %s, including how you obtained the snapshot. The invalid snapshot chainstate will be left on disk in case it is helpful in diagnosing the issue that caused this error.</source>
@@ -4095,8 +4095,8 @@ Ve a "Archivo &gt; Abrir monedero" para cargar uno.
         <translation type="unfinished">Error: El registro del identificador del archivo de volcado es incorrecto. Se obtuvo "%s", mientras que se esperaba "%s".</translation>
     </message>
     <message>
-        <source>Error: Dumpfile version is not supported. This version of bitcoin-wallet only supports version 1 dumpfiles. Got dumpfile with version %s</source>
-        <translation type="unfinished">Error: la versión del archivo volcado no es compatible. Esta versión del monedero de Bitcoin solo admite archivos de volcado de la versión 1. Se obtuvo un archivo de volcado con la versión %s.</translation>
+        <source>Error: Dumpfile version is not supported. This version of pingvincoin-wallet only supports version 1 dumpfiles. Got dumpfile with version %s</source>
+        <translation type="unfinished">Error: la versión del archivo volcado no es compatible. Esta versión del monedero de Pingvincoin solo admite archivos de volcado de la versión 1. Se obtuvo un archivo de volcado con la versión %s.</translation>
     </message>
     <message>
         <source>Error: Legacy wallets only support the "legacy", "p2sh-segwit", and "bech32" address types</source>

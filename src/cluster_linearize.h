@@ -1,4 +1,4 @@
-// Copyright (c) The Bitcoin Core developers
+// Copyright (c) The Pingvincoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -402,7 +402,7 @@ public:
      * a feerate not below GetChunk(0)'s, then moving IntersectPrefixes(subset) to the front of
      * (what remains of) the linearization is guaranteed not to make it worse at any point.
      *
-     * See https://delvingbitcoin.org/t/introduction-to-cluster-linearization/1032 for background.
+     * See https://delvingpingvincoin.org/t/introduction-to-cluster-linearization/1032 for background.
      */
     SetInfo<SetType> IntersectPrefixes(const SetInfo<SetType>& subset) const noexcept
     {

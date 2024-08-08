@@ -1,11 +1,11 @@
-// Copyright (c) 2011-2022 The Bitcoin Core developers
+// Copyright (c) 2011-2022 The Pingvincoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #ifndef BITCOIN_QT_BITCOIN_H
 #define BITCOIN_QT_BITCOIN_H
 
-#include <config/bitcoin-config.h> // IWYU pragma: keep
+#include <config/pingvincoin-config.h> // IWYU pragma: keep
 
 #include <interfaces/node.h>
 #include <qt/initexecutor.h>
@@ -16,7 +16,7 @@
 
 #include <QApplication>
 
-class BitcoinGUI;
+class PingvincoinGUI;
 class ClientModel;
 class NetworkStyle;
 class OptionsModel;
@@ -30,13 +30,13 @@ class Init;
 } // namespace interfaces
 
 
-/** Main Bitcoin application object */
-class BitcoinApplication: public QApplication
+/** Main Pingvincoin application object */
+class PingvincoinApplication: public QApplication
 {
     Q_OBJECT
 public:
-    explicit BitcoinApplication();
-    ~BitcoinApplication();
+    explicit PingvincoinApplication();
+    ~PingvincoinApplication();
 
 #ifdef ENABLE_WALLET
     /// Create payment server
@@ -60,7 +60,7 @@ public:
     /// Request core initialization
     void requestInitialize();
 
-    /// Get window identifier of QMainWindow (BitcoinGUI)
+    /// Get window identifier of QMainWindow (PingvincoinGUI)
     WId getMainWinId() const;
 
     /// Setup platform style
@@ -84,7 +84,7 @@ public Q_SLOTS:
 Q_SIGNALS:
     void requestedInitialize();
     void requestedShutdown();
-    void windowShown(BitcoinGUI* window);
+    void windowShown(PingvincoinGUI* window);
 
 protected:
     bool event(QEvent* e) override;
@@ -93,7 +93,7 @@ private:
     std::optional<InitExecutor> m_executor;
     OptionsModel* optionsModel{nullptr};
     ClientModel* clientModel{nullptr};
-    BitcoinGUI* window{nullptr};
+    PingvincoinGUI* window{nullptr};
     QTimer* pollShutdownTimer{nullptr};
 #ifdef ENABLE_WALLET
     PaymentServer* paymentServer{nullptr};
